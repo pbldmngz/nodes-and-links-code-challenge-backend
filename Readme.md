@@ -1,7 +1,7 @@
 # Advanced Gantt Chart using Nodes and Links - Python Backend
 ## Using Python 3.8.7
 
-> Used a charting library and an algorithm to figure position, order and sizes of boxes to form an interconected Gantt chart, ordering the nodes by dates.
+> Used a charting library and an algorithm to figure position, order and sizes of boxes to form an interconnected Gantt chart, ordering the nodes by dates.
 
 Simple API, 2 endpoints and simple storage mechanics.
 
