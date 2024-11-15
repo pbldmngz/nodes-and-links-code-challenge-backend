@@ -11,7 +11,8 @@ Simple API, 2 endpoints and simple storage mechanics.
 
 > Try running the project. There are example files on /test_files.
 
-[Backend Required](https://github.com/pbldmngz/Advanced-Gantt-Chart-using-Nodes-and-Links---Python-Backend)
+[Frontend Required](https://github.com/pbldmngz/Advanced-Gantt-Chart-using-Nodes-and-Links---React-Frontend)
+
 
 This is how it looks in the end:
 ![4](https://github.com/pbldmngz/Advanced-Gantt-Chart-using-Nodes-and-Links---React-Frontend/assets/32307513/bf6d3e4b-d216-4ee7-8e29-b88a58394836)
